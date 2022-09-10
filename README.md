@@ -1,5 +1,6 @@
 # MERN PROJECT #
 
+![mern](https://user-images.githubusercontent.com/102190834/189484289-9fcffc9f-d787-44ce-88e7-77f78b98d86c.jpeg)
 
 ## Things I learned 
 
